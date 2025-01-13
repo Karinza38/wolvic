@@ -1,4 +1,4 @@
-# Wolvic XR Browser
+ # Wolvic XR Browser
 
 The goal of the Wolvic project is to create a full-featured browser exclusively AR and VR headsets.
 
